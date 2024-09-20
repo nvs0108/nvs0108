@@ -57,7 +57,7 @@
 
 I'm a passionate Computer Engineering graduate with a strong Python, C++, and Java background. I love working on innovative projects and continuously improving my skills.
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/8c769630-d25f-4996-9c24-2b37b7a683e9)">
+<img align="right" alt="coding" width="400" src="src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvs0108&label=Profile%20views&color=0e75b6&style=flat" alt="nvs0108" /> </p>
 
