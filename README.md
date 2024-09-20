@@ -57,6 +57,8 @@
 
 I'm a passionate Computer Engineering graduate with a strong Python, C++, and Java background. I love working on innovative projects and continuously improving my skills.
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/8c769630-d25f-4996-9c24-2b37b7a683e9)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvs0108&label=Profile%20views&color=0e75b6&style=flat" alt="nvs0108" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvs0108" alt="nvs0108" /></a> </p>
